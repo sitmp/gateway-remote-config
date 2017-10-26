@@ -21,10 +21,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 46.5155057,
-    "ref_longitude": 6.5372456,
-    "ref_altitude": 440,
-    "contact_email": "info@rvtech.cz",
+    "ref_latitude": 49.7372230,
+    "ref_longitude": 13.3823220,
+    "ref_altitude": 320,
+    "contact_email": "iot@plzen.eu",
     "description": "RV013-SITMP"
   }
 }
