@@ -15,6 +15,12 @@
         "serv_enabled": true
       },
       {
+        "server_address": "lora3.plzen.eu",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },    
+      {
         "server_address": "test.loratech.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
